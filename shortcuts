@@ -1,0 +1,9 @@
+https://vim.rtorr.com/
+
+ctrl c
+  to escape
+:qa
+  quit all
+:wq
+  write quit
+
